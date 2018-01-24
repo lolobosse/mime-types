@@ -831,15 +831,9 @@ lru-cache@2:
   version "2.7.3"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-2.7.3.tgz#6d4524e8b955f95d4f5b58851ce21dd72fb4e952"
 
-mime-db@~1.31.0:
-  version "1.31.0"
-  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.31.0.tgz#a49cd8f3ebf3ed1a482b60561d9105ad40ca74cb"
-
-"mime-types@https://github.com/lolobosse/mime-types.git":
-  version "2.1.17"
-  resolved "https://github.com/lolobosse/mime-types.git#49ef5419c01103aede309d0026c34ac87030d151"
-  dependencies:
-    mime-db "~1.31.0"
+"mime-db@https://github.com/lolobosse/mime-db.git":
+  version "1.32.0"
+  resolved "https://github.com/lolobosse/mime-db.git#0482f0540ef46f9b40a2ea96897de1c4d995c406"
 
 "minimatch@2 || 3", minimatch@^3.0.3, minimatch@^3.0.4:
   version "3.0.4"

@@ -14,7 +14,7 @@
   ],
   "repository": "jshttp/mime-types",
   "dependencies": {
-    "mime-types": "https://github.com/lolobosse/mime-types.git"
+    "mime-db": "https://github.com/lolobosse/mime-db.git"
   },
   "devDependencies": {
     "eslint": "3.19.0",
